@@ -1,0 +1,17 @@
+#box-1 {
+    border-right: 2px solid rgba(0, 0, 0, 0.1);
+}
+
+#index-calc{
+    margin-bottom: 10px;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+  }
+
+#show-password:hover {
+    cursor: pointer;
+    opacity: 40%;
+}
